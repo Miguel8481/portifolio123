@@ -261,7 +261,7 @@ html {
 @media screen and (max-width: 1500px) {
     .hero{
         height: 550px !important;;
-        background-image: url("formaturatcc.jpeg");
+        background-image: url("/exemplo-portifolio-master/deve.jpeg");
     }
     .hero-description{
         height: 550px
